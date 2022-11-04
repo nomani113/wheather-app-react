@@ -1,0 +1,35 @@
+#abd{
+  background-color: rgb(220, 195, 165);
+ 
+  height: 300px;
+  
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  width: 300px;
+  border: 1
+  px solid rgb(133, 135, 133);
+  padding: 50px;
+  margin: 20px;
+  border-radius: 12px;
+}
+.head{
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+  height: 50px;
+  border-radius: 12px;
+  width: 100px;
+  font-style: italic;
+  align-items: center;
+}
+#style{
+ 
+    height: 50px;
+    border-radius: 12px;
+    width: 170px;
+    font-style: italic;
+    align-items: center;
+
+}
